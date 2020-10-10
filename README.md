@@ -6,7 +6,7 @@
 
 ### Backend
 
-<div>
+<div style="justify-content=center">
     <img alt="java" src="./assets/java.png" width="22px" /> Java
 </div>
 <div>
@@ -21,6 +21,7 @@
 <div>
     <img alt="java" src="./assets/gradle.png" width="22px" /> Gradle
 </div>
+
 
 
 

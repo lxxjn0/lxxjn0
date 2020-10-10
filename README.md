@@ -21,19 +21,30 @@
 #### 역할
 
 - Spring Boot 기반의 API 서버 구축
+- Spring Data JPA를 활용한 도메인 구현
 - ATDD를 통해 사용자 스토리를 기반으로 인수 조건 도출 및 테스트 작성
 - Spring Rest Docs를 통한 API 문서화
 - React Native를 사용한 모바일 애플리케이션 스크린 및 컴포넌트 개발
 - Git Flow 적용 및 Github Project(Kanban)을 통한 프로젝트 관리
-- [기술 블로그](https://seller-lee.github.io/) 구축 및 사용한 기술 공유
+- 프로젝트 전체 디자인 진행
+- [기술 블로그](https://seller-lee.github.io/) 구축 및 적용한 기술 포스팅
 
 #### 사용 기술
 
-`Java8`, `Spring Boot`, `Spring Data JPA`, `Spring Rest Docs`, `JUnit5`, `JaCoCo`, `MariaDB`, `React Native`, `Expo`, `Git`
+`Java8`, `Spring Boot`, `Spring Data JPA`, `Spring Rest Docs`, `QueryDSL`, `JUnit5`, `JaCoCo`, `MariaDB`, `TypeScript`, `React Native`, `Expo`, `Git`
 
 ### 👋🏻 SUPP
 
 *페어 프로그래밍 도움을 위한 설문 & 프로필 서비스 (2020.03 ~ 진행 중)*
+
+#### 역할
+
+- Spring Boot 기반의 API 서버 구축
+- Mustache를 사용하여 페이지 구성
+
+#### 사용 기술
+
+`Java8`, `Spring Boot`, `Mustache`, `MariaDB`, `AWS EC2`, `Git`
 
 ## Latest Post.
 

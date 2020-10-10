@@ -8,6 +8,8 @@
 
 또한 우아한테크코스를 진행하면서 개발 실력뿐만 아니라 커뮤니케이션과 같은 다양한 소프트 스킬을 배양하려고 노력하였고, 지금도 더 나은 커뮤니케이션을 위해 항상 고민합니다.
 
+[![Blogger](http://img.shields.io/badge/-Devlog-orange?style=flat&logo=dev.to&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-dev.netlify.app/)
+
 ## Skill.
 
 ### Backend

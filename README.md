@@ -4,9 +4,27 @@
 
 ## Skill.
 
-| Backend                                                      | DevOps                            | Frontend                   |
-| :----------------------------------------------------------- | :-------------------------------- | :------------------------- |
-| - Java<br />- Spring Boot<br />- Spring Data JPA<br />- JUnit 5<br />- Gradle | - MySQL<br />- MariaDB<br />- AWS | - React Native<br />- Yarn |
+### Backend
+
+![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+
+### DevOps
+
+![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+
+### Frontend
+
+![TypeScript](http://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
+![React Native](http://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=React&logoColor=white)
+![Yarn](http://img.shields.io/badge/-Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white)
 
 
 ## Project.

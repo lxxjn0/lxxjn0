@@ -56,14 +56,25 @@
 [![SUPP](http://img.shields.io/badge/-SUPP-17a2b8?style=flat&logo=Stripe&logoColor=white&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
 [![Chrome Extension](http://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=Google%20Chrome&logoColor=white&link=https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
 
-#### 역할
+<details>
+    <summary>
+        <b>역할</b>
+    </summary>
+    <ul>
+        <li>Spring Boot 기반의 API 서버 구축</li>
+        <li>Mustache를 사용하여 페이지 구성</li>
+        <li>페이지 디자인 진행</li>
+    </ul>
+</details>
 
-- Spring Boot 기반의 API 서버 구축
-- Mustache를 사용하여 페이지 구성
-
-#### 사용 기술
-
-`Java8`, `Spring Boot`, `Mustache`, `MariaDB`, `AWS EC2`, `Git`
+<details>
+    <summary>
+        <b>사용 기술</b>
+    </summary>
+    <p>
+        <code>Java8</code>, <code>Spring Boot</code>, <code>Mustache</code>, <code>MariaDB</code>, <code>AWS EC2</code>, <code>Git</code>
+    </p>
+</details>
 
 ## Latest Post.
 

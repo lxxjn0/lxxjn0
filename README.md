@@ -40,6 +40,10 @@
 
 ### 👋🏻 SUPP
 
+[![Github](http://img.shields.io/badge/-Github-181717?style=flat&logo=github&link=https://github.com/woowa-supp/supp)](https://github.com/woowa-supp/supp)
+[![SUPP](http://img.shields.io/badge/-SUPP-17a2b8?style=flat&logo=Stripe&logoColor=white&link=https://d10qlfpm4ciz64.cloudfront.net/)](https://d10qlfpm4ciz64.cloudfront.net/)
+[![Chrome Extension](http://img.shields.io/badge/-Chrome%20Extension-4285F4?style=flat&logo=Google%20Chrome&logoColor=white&link=https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)](https://chrome.google.com/webstore/detail/supp-chrome-extension/ohpbfpoinegeoajhhpolgghcfmcbflnc?hl=ko&authuser=1)
+
 *페어 프로그래밍 도움을 위한 설문 & 프로필 서비스 (2020.03 ~ 진행 중)*
 
 #### 역할

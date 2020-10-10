@@ -6,13 +6,11 @@
 
 ### Backend
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MariaDB](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat&logo=https://github.com/lxxjn0/lxxjn0/blob/master/assets/java.svg&logoColor=white)
+![Spring Boot](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Spring Data JPA](http://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
+![JUnit](http://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+![Gradle](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
 ### DevOps
 

@@ -4,25 +4,9 @@
 
 ## Skill.
 
-### Backend
-
-<div style="justify-content=center">
-    <img alt="java" src="./assets/java.png" width="22px" /> Java
-</div>
-<div>
-    <img alt="java" src="./assets/springboot.png" width="22px" /> Spring Boot
-</div>
-<div>
-    <img alt="java" src="./assets/spring-data-jpa.png" width="22px" /> Spring Data JPA
-</div>
-<div>
-    <img alt="java" src="./assets/junit5.png" width="22px" /> JUnit5
-</div>
-<div>
-    <img alt="java" src="./assets/gradle.png" width="22px" /> Gradle
-</div>
-
-
+| Backend                                                      | DevOps                            | Frontend                   |
+| :----------------------------------------------------------- | :-------------------------------- | :------------------------- |
+| - Java<br />- Spring Boot<br />- Spring Data JPA<br />- JUnit 5<br />- Gradle | - MySQL<br />- MariaDB<br />- AWS | - React Native<br />- Yarn |
 
 
 ## Project.

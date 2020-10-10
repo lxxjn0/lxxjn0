@@ -4,26 +4,35 @@
 
 ## Skill.
 
-### Backend
-
-- Java
-- Spring Boot
-- Spring Data JPA
-- JUnit5
-- Gradle
-
-### DevOps
-
-- MariaDB
-- MySQL
-- AWS
-
-### Frontend
-
-- JavaScript
-- TypeScript
-- React Native
-- Yarn
+<div style="display:flex; flex-direction:row">
+    <div style="flex:1">
+        <h3>Backend</h3>
+        <ul>
+            <li>Java</li>
+            <li>Spring Boot</li>
+            <li>Spring Data JPA</li>
+            <li>JUnit5</li>
+            <li>Gradle</li>
+        </ul>
+    </div>
+    <div style="flex:1">
+        <h3>Backend</h3>
+        <ul>
+            <li>MariaDB</li>
+            <li>MySQL</li>
+            <li>AWS</li>
+        </ul>
+    </div>
+    <div style="flex:1">
+        <h3>Backend</h3>
+        <ul>
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>React Native</li>
+            <li>Yarn</li>
+        </ul>
+    </div>
+</div>
 
 ## Project.
 

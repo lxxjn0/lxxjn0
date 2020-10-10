@@ -23,20 +23,30 @@
 [![Blogger](http://img.shields.io/badge/-Devlog-395FC1?style=flat&logo=dev.to&logoColor=white&link=https://seller-lee.github.io)](https://seller-lee.github.io/)
 [![Google Play](http://img.shields.io/badge/-Google%20Play-414141?style=flat&logo=Google%20play&link=https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae&hl=en_US)](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae&hl=en_US)
 
-#### 역할
+<details>
+    <summary>
+        <b>역할</b>
+    </summary>
+    <ul>
+        <li>Spring Boot 기반의 API 서버 구축</li>
+        <li>Spring Data JPA를 활용한 도메인 구현</li>
+        <li>ATDD를 통해 사용자 스토리를 기반으로 인수 조건 도출 및 테스트 작성</li>
+        <li>Spring Rest Docs를 통한 API 문서화</li>
+        <li>React Native를 사용한 모바일 애플리케이션 스크린 및 컴포넌트 개발</li>
+        <li>Git Flow 적용 및 Github Project(Kanban)을 통한 프로젝트 관리</li>
+        <li>프로젝트 전체 디자인 진행</li>
+        <li><a target="_blank" href="https://seller-lee.github.io/">기술 블로그</a> 구축 및 적용한 기술 포스팅</li>
+    </ul>
+</details>
 
-- Spring Boot 기반의 API 서버 구축
-- Spring Data JPA를 활용한 도메인 구현
-- ATDD를 통해 사용자 스토리를 기반으로 인수 조건 도출 및 테스트 작성
-- Spring Rest Docs를 통한 API 문서화
-- React Native를 사용한 모바일 애플리케이션 스크린 및 컴포넌트 개발
-- Git Flow 적용 및 Github Project(Kanban)을 통한 프로젝트 관리
-- 프로젝트 전체 디자인 진행
-- [기술 블로그](https://seller-lee.github.io/) 구축 및 적용한 기술 포스팅
-
-#### 사용 기술
-
-`Java8`, `Spring Boot`, `Spring Data JPA`, `Spring Rest Docs`, `QueryDSL`, `JUnit5`, `JaCoCo`, `MariaDB`, `TypeScript`, `React Native`, `Expo`, `Git`
+<details>
+    <summary>
+        <b>사용 기술</b>
+    </summary>
+    <p>
+        <code>Java8</code>, <code>Spring Boot</code>, <code>Spring Data JPA</code>, <code>Spring Rest Docs</code>, <code>QueryDSL</code>, <code>JUnit5</code>, <code>JaCoCo</code>, <code>MariaDB</code>, <code>TypeScript</code>, <code>React Native</code>, <code>Expo</code>, <code>Git</code>
+    </p>
+</details>
 
 ### 👋🏻 SUPP
 

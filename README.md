@@ -4,8 +4,6 @@
 
 서비스의 안정성에 기여하기 위해 테스트 작성에 많은 노력을 기울이고 있으며, 이를 위한 공부도 꾸준히 하고 있습니다.
 
-당연히 있어야 할 것들이 당연한 위치에 있도록 코드를 작성하려고 노력하며, 이러한 노력 중 하나로 지속적인 리팩토링을 진행하고 있습니다.
-
 또한 우아한테크코스를 진행하면서 개발 실력뿐만 아니라 커뮤니케이션과 같은 다양한 소프트 스킬을 배양하려고 노력하였고, 지금도 더 나은 커뮤니케이션을 위해 항상 고민합니다.
 
 [![Blogger](http://img.shields.io/badge/-Devlog-orange?style=flat&logo=dev.to&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-dev.netlify.app/)

@@ -88,7 +88,8 @@
 
 ## Latest Post.
 
+- [Java의 문자열을 파해치자!](https://lxxjn0-dev.netlify.app/dive-into-string)
+- [사용성을 고려해 객체를 설계하자](https://lxxjn0-dev.netlify.app/design-object-by-usability)
+- [else 예약어를 쓰지 않는다](https://lxxjn0-dev.netlify.app/dont-use-else)
+- [왜 Constructor Injection을 사용해야 하는가?](https://lxxjn0-dev.netlify.app/why-use-constructor-injection)
 - [코드 커버리지 분석 도구 적용기 - 2편, JaCoCo 적용하기](https://lxxjn0-dev.netlify.app/java-code-coverage-tool-part-2)
-- [코드 커버리지 분석 도구 적용기 - 1편, 코드 커버리지(Code Coverage)가 뭔가요?](https://lxxjn0-dev.netlify.app/java-code-coverage-tool-part-1)
-- [[SQL 첫걸음] 36. 트랜잭션](https://lxxjn0-dev.netlify.app/first-step-sql-lec-36)
-

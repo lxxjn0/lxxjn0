@@ -50,15 +50,15 @@
         <li><a target="_blank" href="https://seller-lee.github.io/">기술 블로그</a> 구축 및 적용한 기술 포스팅</li>
     </ul>
 </details>
-
 <details>
     <summary>
         <b>사용 기술</b>
     </summary>
     <p>
-        <code>Java8</code>, <code>Spring Boot</code>, <code>Spring Data JPA</code>, <code>Spring Rest Docs</code>, <code>QueryDSL</code>, <code>JUnit5</code>, <code>JaCoCo</code>, <code>MariaDB</code>, <code>TypeScript</code>, <code>React Native</code>, <code>Expo</code>, <code>Git</code>
+        <code>Java8</code>, <code>Spring Boot</code>, <code>Spring Data JPA</code>, <code>Spring Rest Docs</code>, <code>QueryDSL</code>, <code>JUnit5</code>, <code>JaCoCo</code>, <code>SonarCube</code>, <code>MariaDB</code>, <code>TypeScript</code>, <code>React Native</code>, <code>Expo</code>, <code>Git</code>
     </p>
 </details>
+
 
 ### 👋🏻 SUPP
 

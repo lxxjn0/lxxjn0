@@ -1,29 +1,33 @@
 ## Introduce.
 
-안녕하세요, **테스트**와 **성능 개선**에 관심이 많은 주니어 개발자 이준영입니다. 🤩
+**테스트**와 **문제 해결**, **소프트 스킬**에 관심이 많은 자바 백엔드 개발자 이준영입니다 🤩
 
-서비스의 안정성에 기여하기 위해 테스트 작성에 많은 노력을 기울이고 있으며, 이를 위해 꾸준히 학습하고 있습니다.
+테스트 작성으로 안정적인 서비스 운영에 기여하는 것을 좋아합니다. 사용자에게 좋은 서비스 경험을 제공해주기 위해 노력합니다. 팀 내에서 코드 커버리지의 인식 및 개선을 위해 코드 분석 도구를 도입하여 이를 개선한 경험이 있습니다.
 
-문제를 해결하는데 그치지 않고 더 나은 해결 방안을 항상 고민하고, 이를 적용합니다.
+어려운 문제를 해결하는 것에 그치지 않고 더 나은 해결 방안을 찾고자 노력합니다. 프로젝트 내에서도 코드를 꾸준히 리팩토링하면서 성능을 개선한 경험이 있습니다.
 
-또한 우아한테크코스를 진행하면서 개발 실력뿐만 아니라 커뮤니케이션과 같은 다양한 소프트 스킬을 배양하려고 노력하였고, 지금도 더 나은 커뮤니케이션을 위해 항상 고민합니다.
+우아한테크코스 2기 교육과정을 통해 자바 백엔드 개발자로서의 역량을 키웠습니다. 해당 과정 동안 개발 실력뿐만 아니라 커뮤니케이션과 같은 소프트 스킬을 배양하려고 노력하고 있습니다.
 
 [![Blogger](http://img.shields.io/badge/-Devlog-purple?style=flat&logo=dev.to&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-dev.netlify.app/)
-[![Blogger](http://img.shields.io/badge/-Resume-00A98F?style=flat&logo=About.me&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-resume.netlify.app/)
+[![Resume](http://img.shields.io/badge/-Resume-00A98F?style=flat&logo=About.me&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-resume.netlify.app/)
 
 ## Skill.
 
+### Language
+
+- **Java**, C++, TypeScript, Python
+
 ### Backend
 
-`Java`, `Spring Boot`, `Spring Data JPA`, `JUnit5`, `Gradle`
+- **Spring Boot, Spring Data JPA, JUnit5**, Gradle
 
 ### DevOps
 
-`MariaDB`, `MySQL`, `AWS`
+- **MariaDB**, MySQL, AWS EC2
 
 ### Frontend
 
-`TypeScript`, `React Native`, `Yarn`
+- **React Native**, Yarn
 
 ## Project.
 
@@ -51,6 +55,7 @@
         <li><a target="_blank" href="https://seller-lee.github.io/">기술 블로그</a> 구축 및 적용한 기술 포스팅</li>
     </ul>
 </details>
+
 <details>
     <summary>
         <b>사용 기술</b>
@@ -59,7 +64,6 @@
         <code>Java8</code>, <code>Spring Boot</code>, <code>Spring Data JPA</code>, <code>Spring Rest Docs</code>, <code>QueryDSL</code>, <code>JUnit5</code>, <code>JaCoCo</code>, <code>SonarCube</code>, <code>MariaDB</code>, <code>TypeScript</code>, <code>React Native</code>, <code>Expo</code>, <code>Git</code>
     </p>
 </details>
-
 
 ### 👋🏻 SUPP
 

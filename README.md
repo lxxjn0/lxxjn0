@@ -10,7 +10,7 @@
 
 [![Blogger](http://img.shields.io/badge/-Devlog-purple?style=flat&logo=dev.to&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-dev.netlify.app/)
 [![Resume](http://img.shields.io/badge/-Resume-00A98F?style=flat&logo=About.me&logoColor=white&link=https://lxxjn0-dev.netlify.app/)](https://lxxjn0-resume.netlify.app/)
-[![Resume PDF](http://img.shields.io/badge/-Resume%20PDF-1E4C7C?style=flat&logo=About.me&logoColor=white)](./assets/Resume.pdf)
+[![Resume PDF](http://img.shields.io/badge/-Resume%20PDF-1E4C7C?style=flat&logo=About.me&logoColor=white&link=https://drive.google.com/file/d/1XqpfXHhUAmPvuTQ0WCVneynPVVkhJ9OL/view?usp=sharing)](https://drive.google.com/file/d/1XqpfXHhUAmPvuTQ0WCVneynPVVkhJ9OL/view?usp=sharing)
 
 ## Skill.
 

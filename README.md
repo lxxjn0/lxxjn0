@@ -28,7 +28,7 @@
 
 ### Frontend
 
-- **React Native**, Yarn
+- **React Native**
 
 ## Project.
 

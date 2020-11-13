@@ -96,8 +96,6 @@
 
 ## Latest Post.
 
+- [코드 분석 도구 적용기 - 3편, SonarQube 적용하기](https://lxxjn0-dev.netlify.app/static-code-analysis-part-3)
 - [Java의 문자열을 파해치자!](https://lxxjn0-dev.netlify.app/dive-into-string)
 - [사용성을 고려해 객체를 설계하자](https://lxxjn0-dev.netlify.app/design-object-by-usability)
-- [else 예약어를 쓰지 않는다](https://lxxjn0-dev.netlify.app/dont-use-else)
-- [왜 Constructor Injection을 사용해야 하는가?](https://lxxjn0-dev.netlify.app/why-use-constructor-injection)
-- [코드 커버리지 분석 도구 적용기 - 2편, JaCoCo 적용하기](https://lxxjn0-dev.netlify.app/java-code-coverage-tool-part-2)
